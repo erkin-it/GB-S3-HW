@@ -28,7 +28,7 @@ Console.Write("Z2: ");
 int z2 = int.Parse(Console.ReadLine());
 
 
-//Вывод расстояние между ними в 3D пространстве.
+//Вывод расстояние между точками в 3D пространстве.
 
 Result=Math.Sqrt(Fun1(x1,x2)+Fun1(y1,y2)+Fun1(z1,z2));
 
